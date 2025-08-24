@@ -1,5 +1,5 @@
 #include "gpio.h"
-#include "stm32f401re_regs.h"
+#include "mcu.h"
 
 #define MODER_WIDTH 2
 
